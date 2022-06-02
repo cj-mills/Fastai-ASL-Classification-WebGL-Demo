@@ -1,5 +1,5 @@
-# Fastai-ASL-Classification-WebGL-Demo
- A live WebGL demo for the fastai to Unity tutorial
+# Fastai ASL Classification WebGL Demo
+An American Sign Language (ASL) classifier WebGL demo for the fastai to Unity tutorial
 
 **Live Demo:** [https://cj-mills.github.io/Fastai-ASL-Classification-WebGL-Demo/](https://cj-mills.github.io/Fastai-ASL-Classification-WebGL-Demo/) 
 
