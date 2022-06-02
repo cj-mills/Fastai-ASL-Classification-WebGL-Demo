@@ -1,6 +1,8 @@
 # Fastai-ASL-Classification-WebGL-Demo
  A live WebGL demo for the fastai to Unity tutorial
 
+**Live Demo:** [https://cj-mills.github.io/Fastai-ASL-Classification-WebGL-Demo/](https://cj-mills.github.io/Fastai-ASL-Classification-WebGL-Demo/) 
+
 
 
 ### [Kaggle Dataset](https://www.kaggle.com/datasets/belalelwikel/asl-and-some-words)
