@@ -9,7 +9,8 @@ An American Sign Language (ASL) classifier WebGL demo for the fastai to Unity tu
 
 
 
-### Symbol Reference
+<h3>
+<details><summary>Reference Images</summary><br/>
 
 | Symbol    | Reference Image                                              |
 | --------- | ------------------------------------------------------------ |
@@ -67,4 +68,5 @@ An American Sign Language (ASL) classifier WebGL demo for the fastai to Unity tu
 | With      | ![With_0](./images/With_0.jpg) |
 | Yes       | ![Yes_0](./images/Yes_0.jpg) |
 | nothing   | ![nothing1](./images/nothing1.jpg) |
-
+</details>
+</h3>
