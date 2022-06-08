@@ -5,9 +5,7 @@ An American Sign Language (ASL) classifier WebGL demo for the fastai to Unity tu
 
 
 
-### [Kaggle Dataset](https://www.kaggle.com/datasets/belalelwikel/asl-and-some-words)
-
-
+### Kaggle Dataset: [belalelwikel/asl-and-some-words]
 
 <h3>
 <details><summary>Reference Images</summary><br/>
