@@ -81,12 +81,7 @@ An American Sign Language (ASL) classifier WebGL demo for the fastai to Unity tu
 | iPadOS     | Safari  | M1                      | ResNet34 | test image | 16            | Model returns accurate results                               |
 | macOS      | Chrome  | M1 Max                  | ResNet34 | test image | 35 (reported) | Model returns accurate results                               |
 | macOS      | Chrome  | M1 Max                  | ResNet34 | webcam     | 27 (reported) | Model returns accurate results                               |
-|</details>|||||||
-
-
-
-
-
+</details>
 
 
 
