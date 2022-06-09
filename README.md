@@ -68,3 +68,16 @@ An American Sign Language (ASL) classifier WebGL demo for the fastai to Unity tu
 | nothing   | ![nothing1](./images/nothing1.jpg) |
 </details>
 </h3>
+
+
+## Tutorial Links
+
+[GitHub Repository](https://github.com/cj-mills/fastai-to-unity-tutorial)
+
+[Part 1](https://christianjmills.com/Fastai-to-Unity-Tutorial-1/): Part 1 covers training and exporting a model.
+
+[Part 2](https://christianjmills.com/Fastai-to-Unity-Tutorial-2/): Part 2 covers implementing a trained model in a Unity project.
+
+[Part 3](https://christianjmills.com/Fastai-to-Unity-Tutorial-3/): Part 3 covers building a Unity project to run in a web browser and hosting it using GitHub Pages.
+
+
