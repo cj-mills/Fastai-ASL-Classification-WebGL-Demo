@@ -7,8 +7,8 @@ An American Sign Language (ASL) classifier WebGL demo for the fastai to Unity tu
 
 ### Kaggle Dataset: [belalelwikel/asl-and-some-words](https://www.kaggle.com/datasets/belalelwikel/asl-and-some-words)
 
-<h3>
-<details><summary>Reference Images</summary><br/>
+
+<details><summary><h3>Reference Images</h3></summary><br/>
 
 | Class    | Image                                              |
 | --------- | ------------------------------------------------------------ |
@@ -67,10 +67,10 @@ An American Sign Language (ASL) classifier WebGL demo for the fastai to Unity tu
 | Yes       | ![Yes_0](./images/Yes_0.jpg) |
 | nothing   | ![nothing1](./images/nothing1.jpg) |
 </details>
-</h3>
 
-<h3>
-<details><summary>Performance Observations</summary><br/>
+
+
+<details><summary><h3>Performance Observations</h3></summary><br/>
 
 | OS         | Browser | Hardware                | Model    | Input      | FPS           | Notes                                                        |
 | ---------- | ------- | ----------------------- | -------- | ---------- | ------------- | ------------------------------------------------------------ |
@@ -84,7 +84,6 @@ An American Sign Language (ASL) classifier WebGL demo for the fastai to Unity tu
 | macOS      | Chrome  | M1 Max                  | ResNet34 | test image | 35 (reported) | Model returns accurate results                               |
 | macOS      | Chrome  | M1 Max                  | ResNet34 | webcam     | 27 (reported) | Model returns accurate results                               |
 </details>
-</h3>
 
 
 
