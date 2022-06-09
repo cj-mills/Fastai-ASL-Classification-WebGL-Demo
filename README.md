@@ -67,6 +67,7 @@ An American Sign Language (ASL) classifier WebGL demo for the fastai to Unity tu
 | Yes       | ![Yes_0](./images/Yes_0.jpg) |
 | nothing   | ![nothing1](./images/nothing1.jpg) |
 </details>
+
 <details><summary><h3>Performance Observations</h3></summary><br/>
 
 | OS         | Browser | Hardware                | Model    | Input      | FPS           | Notes                                                        |
