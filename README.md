@@ -69,6 +69,30 @@ An American Sign Language (ASL) classifier WebGL demo for the fastai to Unity tu
 </details>
 </h3>
 
+<h3>
+<details><summary>Performance Observations</summary><br/>
+
+| OS         | Browser | Hardware                | Model    | Input      | FPS           | Notes                                                        |
+| ---------- | ------- | ----------------------- | -------- | ---------- | ------------- | ------------------------------------------------------------ |
+| Windows 10 | Chrome  | Titan RTX               | ResNet34 | test image | 60 (capped)   | Model returns accurate results                               |
+| Windows 10 | Chrome  | Titan RTX               | ResNet34 | webcam     | 45-55         | Model returns accurate results                               |
+| Windows 10 | Firefox | Titan RTX               | ResNet34 | test image | 60 (capped)   | Model returns accurate results, but framerates are less stable than Chrome |
+| Windows 10 | Firefox | Titan RTX               | ResNet34 | webcam     | 34            | Model returns accurate results, but framerates are less stable than Chrome |
+| Android 12 | Chrome  | Qualcomm Snapdragon 865 | ResNet34 | test image | 7             | Model does not return accurate results                       |
+| Android 12 | Firefox | Qualcomm Snapdragon 865 | ResNet34 | test image | 7             | Model returns accurate results                               |
+| iPadOS     | Safari  | M1                      | ResNet34 | test image | 16            | Model returns accurate results                               |
+| macOS      | Chrome  | M1 Max                  | ResNet34 | test image | 35 (reported) | Model returns accurate results                               |
+| macOS      | Chrome  | M1 Max                  | ResNet34 | webcam     | 27 (reported) | Model returns accurate results                               |
+</details>
+</h3>
+
+
+
+
+
+
+
+
 
 ## Tutorial Links
 
@@ -79,5 +103,4 @@ An American Sign Language (ASL) classifier WebGL demo for the fastai to Unity tu
 [Part 2](https://christianjmills.com/Fastai-to-Unity-Tutorial-2/): Part 2 covers implementing a trained model in a Unity project.
 
 [Part 3](https://christianjmills.com/Fastai-to-Unity-Tutorial-3/): Part 3 covers building a Unity project to run in a web browser and hosting it using GitHub Pages.
-
 
