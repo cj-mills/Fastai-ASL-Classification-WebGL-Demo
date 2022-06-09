@@ -76,12 +76,12 @@ An American Sign Language (ASL) classifier WebGL demo for the fastai to Unity tu
 | Windows 10 | Chrome  | Titan RTX               | ResNet34 | webcam     | 45-55         | Model returns accurate results                               |
 | Windows 10 | Firefox | Titan RTX               | ResNet34 | test image | 60 (capped)   | Model returns accurate results, but framerates are less stable than Chrome |
 | Windows 10 | Firefox | Titan RTX               | ResNet34 | webcam     | 34            | Model returns accurate results, but framerates are less stable than Chrome |
-| Android 12 | Chrome  | Qualcomm Snapdragon 865 | ResNet34 | test image | 7             | Model does not return accurate results                       |
-| Android 12 | Firefox | Qualcomm Snapdragon 865 | ResNet34 | test image | 7             | Model returns accurate results                               |
+| Android 12 | Chrome  | Snapdragon 865 | ResNet34 | test image | 7             | Model does not return accurate results                       |
+| Android 12 | Firefox | Snapdragon 865 | ResNet34 | test image | 7             | Model returns accurate results                               |
 | iPadOS     | Safari  | M1                      | ResNet34 | test image | 16            | Model returns accurate results                               |
 | macOS      | Chrome  | M1 Max                  | ResNet34 | test image | 35 (reported) | Model returns accurate results                               |
 | macOS      | Chrome  | M1 Max                  | ResNet34 | webcam     | 27 (reported) | Model returns accurate results                               |
-</details>
+|</details>|||||||
 
 
 
